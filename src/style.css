@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+ul, ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+
+body {
+  font-size: 15px;
+  font-weight: 400;
+  color: #222222;
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
+.box {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
